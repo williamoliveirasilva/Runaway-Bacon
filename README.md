@@ -14,15 +14,11 @@ Sem dinheiro para pagar, Lombinho terá que correr, se esconder e contar com seu
 ### Lombinho
 O porco fazendeiro e o irmão mais novo.
 
-![Lombinho](images/Lombinho.png)
-
 ### Panceta
 O porco caçador e o irmão do meio.
-
-![Lombinho](images/Panceta.png)
 
 ### Toicinho
 O porco stripper e o irmão mais novo.
 
-![Lombinho](images/Toucinho.png)
+
 
